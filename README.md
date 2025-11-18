@@ -12,7 +12,7 @@ This lab walks through setting up a basic internal PKI using AD CS and using it 
 
 ## High-Level Steps
 
-1. On a domain-joined server (e.g., `CA01`), install the **Active Directory Certificate Services** role.
+1. On a domain-joined server (e.g., `DC01`), install the **Active Directory Certificate Services** role.
 2. Configure an Enterprise Root CA.
 3. In the Certification Authority console:
    - Duplicate the **Web Server** template.
